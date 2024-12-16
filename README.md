@@ -14,7 +14,7 @@ Table of Contents
 
 
 
-Introduction
+## Introduction
 
 Psychiatric disorders pose diagnostic challenges. This study leverages ultra-short ECG signals analyzed using LSTM networks to achieve robust classification of psychiatric disorders. The methodology integrates a sliding window approach and majority voting for increased accuracy and reduced preprocessing overhead.
 
@@ -23,19 +23,21 @@ Key highlights:
     Mean classification accuracy: 97.12% ± 0.006
     Disorders classified: Bipolar disorder, depression, schizophrenia.
 
-Dataset
+## Dataset
 
 This study utilized the following datasets:
 
 1. **Psychiatry-ECG Dataset**: Available on [Kaggle](https://www.kaggle.com/datasets/buraktaci/Psychiatry-ECG/data).
 2. **MIMIC-IV-ECG-Ext-ICD Dataset**: Available on [PhysioNet](https://doi.org/10.13026/ypt5-9d58).
 
+## Code Availability
+
+The code for this project will be made publicly available upon the publication of the article. The permanent DOI will be provided here after the repository is synchronized with Zenodo.
+
 
 If you are interested in accessing the data, please refer to the original sources.
-Code Availability
 
-The code used for this study is currently not available. It will be shared upon the publication of the corresponding article. Once available, the code will be accessible through this repository and will include links to the necessary resources for reproducing the results.
-Results
+## Results
 
 The proposed LSTM-based ensemble framework achieved the following performance:
 
@@ -43,13 +45,12 @@ The proposed LSTM-based ensemble framework achieved the following performance:
     F1-Score: 0.97
 
 Further details can be found in the published article (link to be provided after publication).
-Citation
 
-## Code Availability
-
-The code for this project will be made publicly available upon the publication of the article. The permanent DOI will be provided here after the repository is synchronized with Zenodo.
+## Citation
 
 
-License
+
+
+## License
 
 The repository will be licensed under an appropriate open-source license once the code is published.
