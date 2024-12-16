@@ -30,9 +30,11 @@ This study utilized the following datasets:
 1. **Psychiatry-ECG Dataset**: Available on [Kaggle](https://www.kaggle.com/datasets/buraktaci/Psychiatry-ECG/data).
 2. **MIMIC-IV-ECG-Ext-ICD Dataset**: Available on [PhysioNet](https://doi.org/10.13026/ypt5-9d58).
 
+
 ## Code Availability
 
-The code for this project will be made publicly available upon the publication of the article. The permanent DOI will be provided here after the repository is synchronized with Zenodo.
+The code for this project is archived on Zenodo and can be accessed here:  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14500319.svg)](https://doi.org/10.5281/zenodo.14500319)
 
 
 If you are interested in accessing the data, please refer to the original sources.
